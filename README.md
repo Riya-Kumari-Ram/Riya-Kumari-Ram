@@ -183,20 +183,6 @@ I believe great products are built by combining creativity, usability, consisten
 - Creative presentation and visual storytelling.
 - Design systems and visual consistency.
 - Building meaningful and user-friendly digital products.
-
----
-
-<!-- GITHUB STATISTICS -->
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub statistics"
-  />
-</p>
 ---
 
 <!-- PROJECTS -->
